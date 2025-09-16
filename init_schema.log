@@ -1,0 +1,6 @@
+2025-09-15 21:43:39,212 | INFO | Initializing database 'medical_db' at mongodb+srv://shaiosmo97:ZNGHXgZDSsWXYgKL@cluster0.zussvle.mongodb.net/
+2025-09-15 21:43:41,211 | INFO | \u2705 Collection 'Procedures' created in database 'medical_db'
+2025-09-15 21:43:41,585 | INFO | \u2705 Collection 'Errors' created in database 'medical_db'
+2025-09-15 21:43:41,926 | INFO | \u2705 Collection 'Catheter' created in database 'medical_db'
+2025-09-15 21:43:42,268 | INFO | \u2705 Collection 'Events' created in database 'medical_db'
+2025-09-15 21:43:42,269 | INFO | Database and collections are ready.
